@@ -25,8 +25,3 @@ Here are some ideas to get you started:
   <img src="https://github.com/Velg03961485/Velg03961485/blob/main/robot.svg">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Velg03961485&theme=monokai&column=7&no-frame=true">
-  </a>
-</p>
