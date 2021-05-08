@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Velg03961485/Velg03961485/blob/main/robot.svg">
+  <img src="https://github.com/Velg03961485/Velg03961485/blob/master/robot.svg">
 </p>
 
