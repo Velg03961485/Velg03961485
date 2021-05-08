@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python Shell
 - 👯 I’m looking to collaborate on education
 - 🤔 I’m looking for help with github
-- 💬 Ask me about github
+- 💬 Ask me about github /* https://docs.github.com/ 
+- 🔗 If you need for  https://docs.github.com/cn
 - 📫 How to reach me: 📮
 - 😄 Pronouns: 🈴️
 - ⚡ Fun fact: 
