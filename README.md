@@ -25,3 +25,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/Velg03961485/Velg03961485/blob/master/robot.svg">
 </p>
 
+
+- 🔭 I’m currently working on coding
+- 🌱 I’m currently learning python Shell
+- 👯 I’m looking to collaborate on education
+- 🤔 I’m looking for help with github
+- 💬 Ask me about github
+- 📫 How to reach me: 📮
+- 😄 Pronouns: 🈴️
+- ⚡ Fun fact: 
